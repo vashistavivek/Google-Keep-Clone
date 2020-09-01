@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Google-Keep-Clone/precache-manifest.12ed43490ca39bdc3eafc1736dfe5b3c.js"
+  "/Google-Keep-Clone/precache-manifest.f89f25371a1a3a98eb8994fc61fa0b08.js"
 );
 
 self.addEventListener('message', (event) => {
