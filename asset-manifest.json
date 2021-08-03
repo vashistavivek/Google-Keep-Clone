@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Google-Keep-Clone/static/css/main.70991781.chunk.css",
+    "main.css": "/Google-Keep-Clone/static/css/main.d9032f86.chunk.css",
     "main.js": "/Google-Keep-Clone/static/js/main.413e784d.chunk.js",
     "main.js.map": "/Google-Keep-Clone/static/js/main.413e784d.chunk.js.map",
     "runtime-main.js": "/Google-Keep-Clone/static/js/runtime-main.ea35224a.js",
@@ -8,15 +8,15 @@
     "static/js/2.9536fede.chunk.js": "/Google-Keep-Clone/static/js/2.9536fede.chunk.js",
     "static/js/2.9536fede.chunk.js.map": "/Google-Keep-Clone/static/js/2.9536fede.chunk.js.map",
     "index.html": "/Google-Keep-Clone/index.html",
-    "precache-manifest.f89f25371a1a3a98eb8994fc61fa0b08.js": "/Google-Keep-Clone/precache-manifest.f89f25371a1a3a98eb8994fc61fa0b08.js",
+    "precache-manifest.40c5c4aa961848834c4f5555b7bac263.js": "/Google-Keep-Clone/precache-manifest.40c5c4aa961848834c4f5555b7bac263.js",
     "service-worker.js": "/Google-Keep-Clone/service-worker.js",
-    "static/css/main.70991781.chunk.css.map": "/Google-Keep-Clone/static/css/main.70991781.chunk.css.map",
+    "static/css/main.d9032f86.chunk.css.map": "/Google-Keep-Clone/static/css/main.d9032f86.chunk.css.map",
     "static/js/2.9536fede.chunk.js.LICENSE.txt": "/Google-Keep-Clone/static/js/2.9536fede.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea35224a.js",
     "static/js/2.9536fede.chunk.js",
-    "static/css/main.70991781.chunk.css",
+    "static/css/main.d9032f86.chunk.css",
     "static/js/main.413e784d.chunk.js"
   ]
 }
